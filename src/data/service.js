@@ -5,7 +5,15 @@ export const districtCoordinates = {
 }
 export function projectMapDistrict(project) { return Object.keys(districtCoordinates).find(district=>project.Project_Name.includes(district)) || project.District }
 export function projectMapLocation(project) { return districtCoordinates[projectMapDistrict(project)] || [project.Latitude,project.Longitude] }
-export async function loadData() { const [projects, contractors, progress, financials] = await Promise.all(['projects.csv','contractors.csv','monthly_progress.csv','monthly_financials.csv'].map(async file => parseCSV(await (await fetch(`/${file}`)).text()))); return { projects, contractors, progress, financials } }
+export async function loadData() {
+  const loadCsv = async file => {
+    const response = await fetch(`${import.meta.env.BASE_URL}${file}`)
+    if (!response.ok) throw new Error(`Unable to load ${file}`)
+    return parseCSV(await response.text())
+  }
+  const [projects, contractors, progress, financials] = await Promise.all(['projects.csv','contractors.csv','monthly_progress.csv','monthly_financials.csv'].map(loadCsv))
+  return { projects, contractors, progress, financials }
+}
 export const filtersFor = (projects) => ({ sectors: [...new Set(projects.map(p=>p.Sector))].sort(), contractors: [...new Set(projects.map(p=>p.Contractor_Name))].sort(), statuses: [...new Set(projects.map(p=>p.Status))], managers: [...new Set(projects.map(p=>p.Project_Manager_Name))].sort(), districts: [...new Set(projects.map(p=>p.District))].sort(), priorities: [...new Set(projects.map(p=>p.Priority))] })
 export function getFilteredProjects(projects, filters) { return projects.filter(p => Object.entries(filters).every(([key, value]) => !value || p[key] === value)) }
 export function summary(projects) { const sum = key => projects.reduce((a,p)=>a+(Number(p[key])||0),0); const avg = key => projects.length ? sum(key)/projects.length : 0; const count = (key, value) => projects.filter(p=>p[key]===value).length; return { total: projects.length, contract: sum('Contract_Value'), budget: sum('Approved_Budget'), spent: sum('Amount_Spent'), remaining: sum('Remaining_Budget'), actual: avg('Actual_Progress'), planned: avg('Planned_Progress'), health: avg('Project_Health_Score'), variance: avg('Schedule_Variance'), completed: count('Status','Completed'), delayed: count('Status','Delayed'), critical: count('Health_Status','Critical'), onTrack: count('Schedule_Status','On Track'), ahead: count('Schedule_Status','Ahead of Schedule'), criticalDelay: count('Schedule_Status','Critical Delay'), avgDelay: avg('Delay_Days'), overBudget: count('Budget_Status','Over Budget'), watch: count('Budget_Status','Watch') } }
