@@ -1,0 +1,308 @@
+[
+  {
+    "District": "Al Rehab",
+    "Total_Projects": 10,
+    "Total_Contract_Value": 485197233,
+    "Average_Progress": 52.61,
+    "Completed_Projects": 2,
+    "Delayed_Projects": 5,
+    "Critical_Projects": 3
+  },
+  {
+    "District": "Obhur",
+    "Total_Projects": 9,
+    "Total_Contract_Value": 2225797640,
+    "Average_Progress": 64.28,
+    "Completed_Projects": 2,
+    "Delayed_Projects": 3,
+    "Critical_Projects": 3
+  },
+  {
+    "District": "Al Ruwais",
+    "Total_Projects": 8,
+    "Total_Contract_Value": 1207506164,
+    "Average_Progress": 48.28,
+    "Completed_Projects": 0,
+    "Delayed_Projects": 0,
+    "Critical_Projects": 0
+  },
+  {
+    "District": "Al Rawdah",
+    "Total_Projects": 7,
+    "Total_Contract_Value": 1214324229,
+    "Average_Progress": 54.7,
+    "Completed_Projects": 0,
+    "Delayed_Projects": 0,
+    "Critical_Projects": 1
+  },
+  {
+    "District": "Al Bawadi",
+    "Total_Projects": 6,
+    "Total_Contract_Value": 1369572621,
+    "Average_Progress": 54.98,
+    "Completed_Projects": 2,
+    "Delayed_Projects": 0,
+    "Critical_Projects": 0
+  },
+  {
+    "District": "Al Hamra",
+    "Total_Projects": 6,
+    "Total_Contract_Value": 1143260258,
+    "Average_Progress": 44.48,
+    "Completed_Projects": 0,
+    "Delayed_Projects": 1,
+    "Critical_Projects": 1
+  },
+  {
+    "District": "Al Waha",
+    "Total_Projects": 6,
+    "Total_Contract_Value": 992443021,
+    "Average_Progress": 51.09,
+    "Completed_Projects": 1,
+    "Delayed_Projects": 0,
+    "Critical_Projects": 1
+  },
+  {
+    "District": "Al Salamah",
+    "Total_Projects": 6,
+    "Total_Contract_Value": 957695049,
+    "Average_Progress": 48.88,
+    "Completed_Projects": 1,
+    "Delayed_Projects": 2,
+    "Critical_Projects": 3
+  },
+  {
+    "District": "Al Zahra",
+    "Total_Projects": 6,
+    "Total_Contract_Value": 177698879,
+    "Average_Progress": 35.82,
+    "Completed_Projects": 1,
+    "Delayed_Projects": 1,
+    "Critical_Projects": 1
+  },
+  {
+    "District": "Al Basateen",
+    "Total_Projects": 6,
+    "Total_Contract_Value": 41026928,
+    "Average_Progress": 42.05,
+    "Completed_Projects": 1,
+    "Delayed_Projects": 1,
+    "Critical_Projects": 1
+  },
+  {
+    "District": "Al Muhammadiyah",
+    "Total_Projects": 5,
+    "Total_Contract_Value": 1348663779,
+    "Average_Progress": 52.89,
+    "Completed_Projects": 2,
+    "Delayed_Projects": 0,
+    "Critical_Projects": 0
+  },
+  {
+    "District": "Al Hamdaniyah",
+    "Total_Projects": 5,
+    "Total_Contract_Value": 834980953,
+    "Average_Progress": 79.76,
+    "Completed_Projects": 2,
+    "Delayed_Projects": 1,
+    "Critical_Projects": 0
+  },
+  {
+    "District": "Al Rabwah",
+    "Total_Projects": 5,
+    "Total_Contract_Value": 641590390,
+    "Average_Progress": 43.75,
+    "Completed_Projects": 1,
+    "Delayed_Projects": 1,
+    "Critical_Projects": 1
+  },
+  {
+    "District": "Al Samer",
+    "Total_Projects": 5,
+    "Total_Contract_Value": 624834796,
+    "Average_Progress": 54.9,
+    "Completed_Projects": 0,
+    "Delayed_Projects": 1,
+    "Critical_Projects": 1
+  },
+  {
+    "District": "Al Faisaliyah",
+    "Total_Projects": 5,
+    "Total_Contract_Value": 271501790,
+    "Average_Progress": 77.37,
+    "Completed_Projects": 2,
+    "Delayed_Projects": 0,
+    "Critical_Projects": 0
+  },
+  {
+    "District": "Al Balad",
+    "Total_Projects": 5,
+    "Total_Contract_Value": 226409685,
+    "Average_Progress": 37.46,
+    "Completed_Projects": 1,
+    "Delayed_Projects": 0,
+    "Critical_Projects": 1
+  },
+  {
+    "District": "Al Aziziyah",
+    "Total_Projects": 4,
+    "Total_Contract_Value": 671603159,
+    "Average_Progress": 37.04,
+    "Completed_Projects": 1,
+    "Delayed_Projects": 0,
+    "Critical_Projects": 0
+  },
+  {
+    "District": "Al Naseem",
+    "Total_Projects": 4,
+    "Total_Contract_Value": 533659831,
+    "Average_Progress": 55.85,
+    "Completed_Projects": 1,
+    "Delayed_Projects": 0,
+    "Critical_Projects": 1
+  },
+  {
+    "District": "Al Shati",
+    "Total_Projects": 4,
+    "Total_Contract_Value": 433504469,
+    "Average_Progress": 32.08,
+    "Completed_Projects": 0,
+    "Delayed_Projects": 1,
+    "Critical_Projects": 2
+  },
+  {
+    "District": "Prince Fawaz",
+    "Total_Projects": 4,
+    "Total_Contract_Value": 402918241,
+    "Average_Progress": 37.44,
+    "Completed_Projects": 0,
+    "Delayed_Projects": 1,
+    "Critical_Projects": 1
+  },
+  {
+    "District": "Al Jamiah",
+    "Total_Projects": 4,
+    "Total_Contract_Value": 124804572,
+    "Average_Progress": 75.26,
+    "Completed_Projects": 2,
+    "Delayed_Projects": 1,
+    "Critical_Projects": 0
+  },
+  {
+    "District": "Al Ajwad",
+    "Total_Projects": 3,
+    "Total_Contract_Value": 346495647,
+    "Average_Progress": 70.43,
+    "Completed_Projects": 1,
+    "Delayed_Projects": 0,
+    "Critical_Projects": 0
+  },
+  {
+    "District": "Al Thaghr",
+    "Total_Projects": 3,
+    "Total_Contract_Value": 314939200,
+    "Average_Progress": 35.94,
+    "Completed_Projects": 0,
+    "Delayed_Projects": 0,
+    "Critical_Projects": 0
+  },
+  {
+    "District": "Al Khalidiyah",
+    "Total_Projects": 3,
+    "Total_Contract_Value": 196312162,
+    "Average_Progress": 79.28,
+    "Completed_Projects": 0,
+    "Delayed_Projects": 0,
+    "Critical_Projects": 1
+  },
+  {
+    "District": "Al Kandarah",
+    "Total_Projects": 3,
+    "Total_Contract_Value": 131662080,
+    "Average_Progress": 68.55,
+    "Completed_Projects": 1,
+    "Delayed_Projects": 0,
+    "Critical_Projects": 0
+  },
+  {
+    "District": "Al Sanabel",
+    "Total_Projects": 3,
+    "Total_Contract_Value": 114671010,
+    "Average_Progress": 54.72,
+    "Completed_Projects": 0,
+    "Delayed_Projects": 1,
+    "Critical_Projects": 0
+  },
+  {
+    "District": "Al Marwah",
+    "Total_Projects": 3,
+    "Total_Contract_Value": 99340388,
+    "Average_Progress": 49.3,
+    "Completed_Projects": 0,
+    "Delayed_Projects": 1,
+    "Critical_Projects": 1
+  },
+  {
+    "District": "Al Naeem",
+    "Total_Projects": 3,
+    "Total_Contract_Value": 45630370,
+    "Average_Progress": 65.67,
+    "Completed_Projects": 1,
+    "Delayed_Projects": 1,
+    "Critical_Projects": 1
+  },
+  {
+    "District": "Al Safa",
+    "Total_Projects": 2,
+    "Total_Contract_Value": 413851734,
+    "Average_Progress": 46.86,
+    "Completed_Projects": 0,
+    "Delayed_Projects": 1,
+    "Critical_Projects": 1
+  },
+  {
+    "District": "Al Manar",
+    "Total_Projects": 2,
+    "Total_Contract_Value": 346810895,
+    "Average_Progress": 82.2,
+    "Completed_Projects": 0,
+    "Delayed_Projects": 0,
+    "Critical_Projects": 0
+  },
+  {
+    "District": "Al Rawabi",
+    "Total_Projects": 2,
+    "Total_Contract_Value": 118320455,
+    "Average_Progress": 100.0,
+    "Completed_Projects": 2,
+    "Delayed_Projects": 0,
+    "Critical_Projects": 0
+  },
+  {
+    "District": "Al Rowais",
+    "Total_Projects": 1,
+    "Total_Contract_Value": 685661316,
+    "Average_Progress": 56.22,
+    "Completed_Projects": 0,
+    "Delayed_Projects": 0,
+    "Critical_Projects": 0
+  },
+  {
+    "District": "Al Baghdadiyah",
+    "Total_Projects": 1,
+    "Total_Contract_Value": 41976377,
+    "Average_Progress": 78.59,
+    "Completed_Projects": 0,
+    "Delayed_Projects": 1,
+    "Critical_Projects": 0
+  },
+  {
+    "District": "Al Andalus",
+    "Total_Projects": 1,
+    "Total_Contract_Value": 26096166,
+    "Average_Progress": 87.32,
+    "Completed_Projects": 0,
+    "Delayed_Projects": 1,
+    "Critical_Projects": 0
+  }
+]

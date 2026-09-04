@@ -1,0 +1,90 @@
+[
+  {
+    "Sector": "Roads & Transportation",
+    "Total_Projects": 32,
+    "Total_Contract_Value": 6371519788,
+    "Total_Budget": 6813743462,
+    "Total_Spent": 4308892989,
+    "Average_Progress": 55.42,
+    "Completed_Projects": 4,
+    "Delayed_Projects": 7,
+    "Average_Health_Score": 74.09
+  },
+  {
+    "Sector": "Urban Development",
+    "Total_Projects": 26,
+    "Total_Contract_Value": 5953910148,
+    "Total_Budget": 6123311399,
+    "Total_Spent": 3684729533,
+    "Average_Progress": 46.69,
+    "Completed_Projects": 4,
+    "Delayed_Projects": 4,
+    "Average_Health_Score": 76.42
+  },
+  {
+    "Sector": "Stormwater & Drainage",
+    "Total_Projects": 20,
+    "Total_Contract_Value": 2624198231,
+    "Total_Budget": 2731919688,
+    "Total_Spent": 2206718095,
+    "Average_Progress": 69.52,
+    "Completed_Projects": 6,
+    "Delayed_Projects": 2,
+    "Average_Health_Score": 79.95
+  },
+  {
+    "Sector": "Utilities",
+    "Total_Projects": 16,
+    "Total_Contract_Value": 1345306192,
+    "Total_Budget": 1371535432,
+    "Total_Spent": 641499172,
+    "Average_Progress": 47.52,
+    "Completed_Projects": 1,
+    "Delayed_Projects": 1,
+    "Average_Health_Score": 72.61
+  },
+  {
+    "Sector": "Buildings",
+    "Total_Projects": 22,
+    "Total_Contract_Value": 1219338732,
+    "Total_Budget": 1302342911,
+    "Total_Spent": 696589133,
+    "Average_Progress": 58.44,
+    "Completed_Projects": 5,
+    "Delayed_Projects": 6,
+    "Average_Health_Score": 73.13
+  },
+  {
+    "Sector": "Public Facilities",
+    "Total_Projects": 14,
+    "Total_Contract_Value": 800361561,
+    "Total_Budget": 823393036,
+    "Total_Spent": 471768032,
+    "Average_Progress": 51.28,
+    "Completed_Projects": 3,
+    "Delayed_Projects": 3,
+    "Average_Health_Score": 74.15
+  },
+  {
+    "Sector": "Parks & Landscaping",
+    "Total_Projects": 10,
+    "Total_Contract_Value": 322175493,
+    "Total_Budget": 326679641,
+    "Total_Spent": 139875670,
+    "Average_Progress": 53.04,
+    "Completed_Projects": 2,
+    "Delayed_Projects": 0,
+    "Average_Health_Score": 85.64
+  },
+  {
+    "Sector": "Street Lighting",
+    "Total_Projects": 10,
+    "Total_Contract_Value": 173951342,
+    "Total_Budget": 172685821,
+    "Total_Spent": 111477366,
+    "Average_Progress": 49.88,
+    "Completed_Projects": 2,
+    "Delayed_Projects": 2,
+    "Average_Health_Score": 78.45
+  }
+]

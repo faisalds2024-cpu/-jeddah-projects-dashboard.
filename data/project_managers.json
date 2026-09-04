@@ -1,0 +1,142 @@
+[
+  {
+    "Project_Manager_ID": "PM-008",
+    "Project_Manager_Name": "Omar Alshehri",
+    "Total_Projects": 10,
+    "Completed_Projects": 3,
+    "Delayed_Projects": 3,
+    "Total_Project_Value": 2697795635,
+    "Average_Progress": 56.78,
+    "Average_Health_Score": 77.03
+  },
+  {
+    "Project_Manager_ID": "PM-003",
+    "Project_Manager_Name": "Fahad Alghamdi",
+    "Total_Projects": 16,
+    "Completed_Projects": 0,
+    "Delayed_Projects": 3,
+    "Total_Project_Value": 1992232982,
+    "Average_Progress": 47.29,
+    "Average_Health_Score": 76.78
+  },
+  {
+    "Project_Manager_ID": "PM-001",
+    "Project_Manager_Name": "Ahmed Alharbi",
+    "Total_Projects": 15,
+    "Completed_Projects": 5,
+    "Delayed_Projects": 3,
+    "Total_Project_Value": 1904424761,
+    "Average_Progress": 57.46,
+    "Average_Health_Score": 73.05
+  },
+  {
+    "Project_Manager_ID": "PM-009",
+    "Project_Manager_Name": "Turki Almutairi",
+    "Total_Projects": 8,
+    "Completed_Projects": 2,
+    "Delayed_Projects": 0,
+    "Total_Project_Value": 1887998115,
+    "Average_Progress": 53.8,
+    "Average_Health_Score": 89.52
+  },
+  {
+    "Project_Manager_ID": "PM-006",
+    "Project_Manager_Name": "Saad Alshammari",
+    "Total_Projects": 11,
+    "Completed_Projects": 3,
+    "Delayed_Projects": 1,
+    "Total_Project_Value": 1792511744,
+    "Average_Progress": 67.55,
+    "Average_Health_Score": 74.86
+  },
+  {
+    "Project_Manager_ID": "PM-007",
+    "Project_Manager_Name": "Yousef Alsubaie",
+    "Total_Projects": 11,
+    "Completed_Projects": 1,
+    "Delayed_Projects": 2,
+    "Total_Project_Value": 1501328962,
+    "Average_Progress": 44.65,
+    "Average_Health_Score": 70.36
+  },
+  {
+    "Project_Manager_ID": "PM-002",
+    "Project_Manager_Name": "Mohammed Alqahtani",
+    "Total_Projects": 14,
+    "Completed_Projects": 4,
+    "Delayed_Projects": 3,
+    "Total_Project_Value": 1498433305,
+    "Average_Progress": 56.75,
+    "Average_Health_Score": 69.98
+  },
+  {
+    "Project_Manager_ID": "PM-005",
+    "Project_Manager_Name": "Khalid Alotaibi",
+    "Total_Projects": 12,
+    "Completed_Projects": 2,
+    "Delayed_Projects": 1,
+    "Total_Project_Value": 1301663792,
+    "Average_Progress": 58.36,
+    "Average_Health_Score": 76.76
+  },
+  {
+    "Project_Manager_ID": "PM-011",
+    "Project_Manager_Name": "Nawaf Alqahtani",
+    "Total_Projects": 9,
+    "Completed_Projects": 0,
+    "Delayed_Projects": 1,
+    "Total_Project_Value": 983242324,
+    "Average_Progress": 46.12,
+    "Average_Health_Score": 82.27
+  },
+  {
+    "Project_Manager_ID": "PM-004",
+    "Project_Manager_Name": "Abdullah Alzahrani",
+    "Total_Projects": 12,
+    "Completed_Projects": 3,
+    "Delayed_Projects": 1,
+    "Total_Project_Value": 930450508,
+    "Average_Progress": 48.2,
+    "Average_Health_Score": 78.23
+  },
+  {
+    "Project_Manager_ID": "PM-014",
+    "Project_Manager_Name": "Tariq Alotaibi",
+    "Total_Projects": 8,
+    "Completed_Projects": 2,
+    "Delayed_Projects": 2,
+    "Total_Project_Value": 835455809,
+    "Average_Progress": 76.75,
+    "Average_Health_Score": 71.17
+  },
+  {
+    "Project_Manager_ID": "PM-010",
+    "Project_Manager_Name": "Bander Alghamdi",
+    "Total_Projects": 9,
+    "Completed_Projects": 0,
+    "Delayed_Projects": 2,
+    "Total_Project_Value": 636946712,
+    "Average_Progress": 43.02,
+    "Average_Health_Score": 78.34
+  },
+  {
+    "Project_Manager_ID": "PM-013",
+    "Project_Manager_Name": "Hassan Alzahrani",
+    "Total_Projects": 8,
+    "Completed_Projects": 0,
+    "Delayed_Projects": 2,
+    "Total_Project_Value": 596813660,
+    "Average_Progress": 44.77,
+    "Average_Health_Score": 75.52
+  },
+  {
+    "Project_Manager_ID": "PM-012",
+    "Project_Manager_Name": "Majed Alharbi",
+    "Total_Projects": 7,
+    "Completed_Projects": 2,
+    "Delayed_Projects": 1,
+    "Total_Project_Value": 251463178,
+    "Average_Progress": 67.44,
+    "Average_Health_Score": 77.08
+  }
+]

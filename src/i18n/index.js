@@ -1,0 +1,7 @@
+import i18n from 'i18next'
+import { initReactI18next } from 'react-i18next'
+
+const en = { translation: { overview: 'Executive Overview', schedule: 'Schedule & Progress', budget: 'Budget & Finance', contractors: 'Contractors', map: 'Project Map', search: 'Search projects, contractors or districts...', filters: 'Filters', reset: 'Reset Filters', lastUpdated: 'Last updated', presentation: 'Presentation mode', noData: 'No projects match the current filters.', details: 'Project Details', all: 'All', totalProjects: 'Total Projects', totalValue: 'Total Contract Value', approvedBudget: 'Approved Budget', actualProgress: 'Average Actual Progress', completed: 'Completed Projects', delayed: 'Delayed Projects', critical: 'Critical Projects' } }
+const ar = { translation: { overview: 'النظرة التنفيذية', schedule: 'الجدول الزمني والتقدم', budget: 'الميزانية والتمويل', contractors: 'المقاولون', map: 'خريطة المشاريع', search: 'ابحث عن مشروع أو مقاول أو حي...', filters: 'الفلاتر', reset: 'إعادة ضبط', lastUpdated: 'آخر تحديث', presentation: 'وضع العرض', noData: 'لا توجد مشاريع مطابقة للفلاتر الحالية.', details: 'تفاصيل المشروع', all: 'الكل', totalProjects: 'إجمالي المشاريع', totalValue: 'إجمالي قيمة العقود', approvedBudget: 'الميزانية المعتمدة', actualProgress: 'متوسط الإنجاز الفعلي', completed: 'المشاريع المكتملة', delayed: 'المشاريع المتأخرة', critical: 'المشاريع الحرجة' } }
+i18n.use(initReactI18next).init({ resources: { en, ar }, lng: localStorage.getItem('jpc-language') || 'en', fallbackLng: 'en', interpolation: { escapeValue: false } })
+export default i18n

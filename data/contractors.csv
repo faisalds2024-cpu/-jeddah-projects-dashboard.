@@ -1,0 +1,21 @@
+Contractor_ID,Contractor_Name,Total_Projects,Completed_Projects,Active_Projects,Delayed_Projects,On_Hold_Projects,Total_Contract_Value,Average_Project_Value,Average_Progress,Average_Schedule_Variance,Average_Delay_Days,Average_Health_Score,Contractor_Performance_Score,Performance_Category
+CONT-002,Al Binaa Contracting Co.,12,3,9,4,0,2797258285,233104857,60.2,-10.2,124.83,70.68,63.61,Needs Attention
+CONT-005,Arabian Development Contractors,10,0,7,0,2,1654450262,165445026,50.03,-5.24,31.6,78.27,72.65,Good
+CONT-001,Red Sea Infrastructure Ltd.,11,4,6,0,1,1466007678,133273425,77.68,-5.65,55.91,75.21,75.85,Good
+CONT-006,Gulf Engineering & Construction,9,1,6,1,1,1336869964,148541107,42.97,-7.35,39.89,76.62,68.44,Needs Attention
+CONT-004,Jeddah Urban Works Co.,11,4,6,2,0,1251001648,113727423,61.84,-7.78,61.0,77.21,70.55,Needs Attention
+CONT-008,Al Manar Contracting,8,1,7,2,0,1203025067,150378133,59.91,-1.56,37.5,80.13,72.08,Good
+CONT-007,Western Projects Company,9,2,6,5,1,1146473784,127385976,52.55,-18.98,179.89,49.92,45.48,Poor
+CONT-015,Alpha Core Construction,6,1,4,0,0,1120216220,186702703,52.37,-0.41,26.17,81.27,76.8,Good
+CONT-011,Corniche Civil Works,6,1,5,1,0,812424889,135404148,38.58,-8.01,91.0,68.18,63.23,Needs Attention
+CONT-014,Desert Line Projects,5,2,2,2,0,742936160,148587232,56.45,-7.69,99.8,79.1,66.25,Needs Attention
+CONT-019,Modern Grid Contracting,4,1,3,1,0,714690749,178672687,55.82,-10.93,114.5,70.56,64.35,Needs Attention
+CONT-012,Madar Utilities & Build,6,0,5,0,0,703928827,117321471,46.42,-6.78,31.17,72.31,69.97,Needs Attention
+CONT-003,Horizon Construction Group,9,0,6,1,2,670890025,74543336,47.81,-0.84,55.33,83.95,73.86,Good
+CONT-013,Blue Horizon Contractors,7,2,5,1,0,659275544,94182221,60.97,-2.05,69.29,87.3,77.46,Good
+CONT-010,Saudi Infrastructure Solutions,9,1,4,1,1,579793252,64421472,39.29,-3.06,31.78,85.0,72.95,Good
+CONT-018,First Route Engineering,6,0,4,1,1,572282191,95380365,54.63,-7.16,81.5,73.64,67.52,Needs Attention
+CONT-009,Future Cities Construction,8,0,8,1,0,533242791,66655349,60.54,3.43,19.75,83.02,77.47,Good
+CONT-017,Vision Axis Developments,5,0,2,0,1,521501319,104300264,10.16,-5.71,49.0,78.64,66.7,Needs Attention
+CONT-020,Prime Gulf Builders,4,3,1,1,0,207882591,51970648,92.46,-7.3,119.0,78.31,74.42,Good
+CONT-016,Nesma Urban Contracting,5,1,4,1,0,116610241,23322048,60.25,-8.29,108.8,73.31,68.04,Needs Attention
